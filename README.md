@@ -2,7 +2,7 @@
 
 This is the public documentation for the **Online Bookstore** project.
 
-## 📌 Access to the Original Code
+## Access to the Original Code
 This project is private. If you wish to access the original repository, please send a request.
 
 🔒 **Link to the original repository:** [Online Bookstore (private repo)](https://github.com/vegaFlex/Online_Bookstore) *(requires approval)*
