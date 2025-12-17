@@ -73,7 +73,7 @@ python manage.py runserver
 ```
 
 Project is accessible at: [http://127.0.0.1:8000/](http://127.0.0.1:8000/)  
-After deployment: [https://bookzone-bg-ckd0b9b3abdvfncx.italynorth-01.azurewebsites.net/](https://bookzone-bg-ckd0b9b3abdvfncx.italynorth-01.azurewebsites.net/)  
+After deployment: [https://vegata.pythonanywhere.com/](https://vegata.pythonanywhere.com/)  
 
 ---
 
@@ -110,7 +110,7 @@ After deployment: [https://bookzone-bg-ckd0b9b3abdvfncx.italynorth-01.azurewebsi
 ## Admin Panel
 
 🔗 **Access:** [http://127.0.0.1:8000/admin/](http://127.0.0.1:8000/admin/)  
-After deployment: [https://bookzone-bg-ckd0b9b3abdvfncx.italynorth-01.azurewebsites.net/admin/](https://bookzone-bg-ckd0b9b3abdvfncx.italynorth-01.azurewebsites.net/admin/)  
+After deployment: [https://vegata.pythonanywhere.com/](https://vegata.pythonanywhere.com/)  
 
 ### Admin Features
 - **Books:** Add, edit, delete books
