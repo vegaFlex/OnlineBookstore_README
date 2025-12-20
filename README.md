@@ -2,6 +2,9 @@
 
 This is the public documentation for the **Online Bookstore** project.
 
+## 🌐 Live Demo
+👉 https://vegata.pythonanywhere.com/
+
 ## Access to the Original Code
 This project is private. If you wish to access the original repository, please send a request.
 
